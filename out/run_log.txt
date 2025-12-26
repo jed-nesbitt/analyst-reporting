@@ -1,0 +1,12 @@
+Analyst Reporting Automation Suite - Run Log
+Generated: 2025-12-27 09:58:14
+
+Input dir: data\in
+Output dir: out
+Currency: AUD
+Rows loaded: 9994
+Charts generated: 5
+PDF created: True
+
+Warnings:
+- (none)

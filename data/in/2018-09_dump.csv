@@ -1,0 +1,460 @@
+Transaction Date, State ,SKU,Sales($),COGS,Qty
+2018-09-10,Illinois,Panasonic Kx-TS550,147.168,130.6116,4
+2018-09-19,Florida,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",95.616,86.0544,2
+2018-09-14,Michigan,"Telephone Message Books with Fax/Mobile Section, 5 1/2"" x 3 3/16""",19.05,10.287,3
+2018-09-18,California,Newell 343,8.82,6.4386,3
+2018-09-18,California,Convenience Packs of Business Envelopes,10.86,5.7558,3
+2018-09-18,California,Xerox 1911,143.7,74.72399999999999,3
+2018-09-16,California,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",8.82,4.7628,2
+2018-09-16,California,Newell 330,5.98,4.4252,1
+2018-09-25,New York,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",20.7,10.764,2
+2018-09-25,New York,Global Ergonomic Managers Chair,488.646,401.7756,3
+2018-09-25,New York,Newell 333,5.56,4.1144,2
+2018-09-25,New York,Eldon Wave Desk Accessories,47.12,26.387199999999996,8
+2018-09-15,Texas,Xerox 1897,31.872,20.3184,8
+2018-09-07,California,Tenex Chairmats For Use With Carpeted Floors,47.94,45.543,3
+2018-09-03,Illinois,"Premier Elliptical Ring Binder, Black",42.616,110.8016,7
+2018-09-11,Florida,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",34.504,28.465799999999998,1
+2018-09-15,New York,"Master Caster Door Stop, Brown",35.56,23.4696,7
+2018-09-24,Florida,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 1/Pack",17.88,15.421499999999998,3
+2018-09-24,Florida,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",235.944,150.41429999999997,3
+2018-09-02,Ohio,"Eldon 200 Class Desk Accessories, Burgundy",15.072,10.9272,3
+2018-09-03,Florida,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",24.448,15.585600000000001,4
+2018-09-24,Ohio,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",103.056,78.58019999999999,3
+2018-09-16,Texas,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",17.568,11.1996,2
+2018-09-16,Texas,ClearSounds CSC500 Amplified Spirit Phone Corded phone,55.992,50.392799999999994,1
+2018-09-18,Wisconsin,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",22.72,12.495999999999999,4
+2018-09-21,Minnesota,Avery Durable Binders,20.16,10.281600000000001,7
+2018-09-15,Illinois,Avaya 5420 Digital phone,323.976,303.7275,3
+2018-09-02,Michigan,Polycom CX600 IP Phone VoIP phone,1199.8,875.8539999999999,4
+2018-09-02,Michigan,Maxell iVDR EX 500GB Cartridge,1928.78,1099.4045999999998,7
+2018-09-02,Michigan,Fellowes High-Stak Drawer Files,352.38,271.3326,2
+2018-09-02,Pennsylvania,"RSVP Cards & Envelopes, Blank White, 8-1/2"" X 11"", 24 Cards/25 Envelopes/Set",12.192,8.077200000000001,3
+2018-09-29,Texas,Avery 499,7.968,5.3784,2
+2018-09-29,Texas,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",27.968,18.5288,4
+2018-09-29,Texas,Wasp CCD Handheld Bar Code Reader,336.51,291.642,3
+2018-09-28,Texas,Staple remover,1.744,2.0928,1
+2018-09-23,Washington,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,119.96,86.37119999999999,2
+2018-09-23,Washington,Sterilite Officeware Hinged File Box,31.44,22.9512,3
+2018-09-23,Washington,Avery Printable Repositionable Plastic Tabs,6.88,4.558,1
+2018-09-09,Pennsylvania,Global Low Back Tilter Chair,141.372,189.8424,2
+2018-09-09,Pennsylvania,Wilson Jones Standard D-Ring Binders,3.036,5.3636,2
+2018-09-09,Pennsylvania,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",4.503,8.1054,1
+2018-09-09,Pennsylvania,"Quartet Omega Colored Chalk, 12/Pack",4.672,3.0951999999999997,1
+2018-09-09,Pennsylvania,Microsoft Sculpt Comfort Mouse,95.88,67.116,3
+2018-09-09,Pennsylvania,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",17.024,15.3216,2
+2018-09-09,Pennsylvania,Plantronics S12 Corded Telephone Headset System,258.696,194.02200000000002,3
+2018-09-09,Pennsylvania,Samsung Galaxy Note 2,1931.958,2318.3496,7
+2018-09-02,California,Pencil and Crayon Sharpener,6.57,4.7961,3
+2018-09-23,Colorado,Aluminum Document Frame,29.328,25.662,3
+2018-09-04,Texas,"Crayola Anti Dust Chalk, 12/Pack",10.192,7.007,7
+2018-09-04,Texas,Acco Perma 3000 Stacking Storage Drawers,16.784,16.9938,1
+2018-09-04,Texas,"Sanford Colorific Eraseable Coloring Pencils, 12 Count",13.12,9.347999999999999,5
+2018-09-12,California,"Eldon Image Series Desk Accessories, Burgundy",8.36,5.3504,2
+2018-09-15,Massachusetts,GE DSL Phone Line Filter,39.99,28.392900000000004,1
+2018-09-15,Massachusetts,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",16.28,9.768,2
+2018-09-15,Massachusetts,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",782.94,579.3756000000001,3
+2018-09-15,Massachusetts,Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,242.48,126.08959999999999,7
+2018-09-04,New York,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",91.96,52.417199999999994,4
+2018-09-05,Washington,Newell 333,2.78,2.0572,1
+2018-09-08,Illinois,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,765.625,1332.1875,7
+2018-09-22,Wisconsin,Xerox 1940,219.84,112.11840000000001,4
+2018-09-22,Wisconsin,Logitech Desktop MK120 Mouse and keyboard Combo,98.16,88.344,6
+2018-09-22,Wisconsin,ACCOHIDE Binder by Acco,33.04,17.5112,8
+2018-09-22,Wisconsin,AT&T CL82213,86.97,61.7487,3
+2018-09-22,Pennsylvania,Clear Mylar Reinforcing Strips,5.607,9.9057,1
+2018-09-22,Pennsylvania,Martin Yale Chadless Opener Electric Letter Opener,4663.736,5713.0766,7
+2018-09-22,Pennsylvania,Logitech Wireless Marathon Mouse M705,79.984,56.98859999999999,2
+2018-09-10,California,DMI Arturo Collection Mission-style Design Wood Chair,362.352,335.1756,3
+2018-09-10,California,Avery Non-Stick Binders,7.184,4.939,2
+2018-09-02,New York,Newell 324,23.1,16.632,2
+2018-09-02,New York,DAX Cubicle Frames - 8x10,11.54,8.078,2
+2018-09-02,New York,Bush Advantage Collection Racetrack Conference Table,254.526,347.85220000000004,1
+2018-09-02,New York,Fellowes Basic Home/Office Series Surge Protectors,12.98,9.2158,1
+2018-09-02,New York,"ACCOHIDE 3-Ring Binder, Blue, 1""",26.432,17.5112,8
+2018-09-02,New York,Cisco SPA508G,197.97,140.5587,3
+2018-09-02,New York,Avery 518,18.9,9.828,6
+2018-09-02,New York,Global Commerce Series High-Back Swivel/Tilt Chairs,1282.41,1068.6750000000002,5
+2018-09-02,New York,BIC Brite Liner Grip Highlighters,4.92,2.706,3
+2018-09-02,New York,WD My Passport Ultra 2TB Portable External Hard Drive,238.0,199.92000000000002,2
+2018-09-02,New York,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,167.97,127.65719999999999,3
+2018-09-02,New York,Xerox 1962,17.12,9.416,4
+2018-09-10,Missouri,3M Organizer Strips,16.2,8.424,3
+2018-09-10,Missouri,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",33.99,19.3743,3
+2018-09-10,Missouri,Logitech G105 Gaming Keyboard,296.85,243.41700000000003,5
+2018-09-10,Missouri,Imation Clip USB flash drive - 8 GB,112.8,106.032,6
+2018-09-10,Missouri,Newell 3-Hole Punched Plastic Slotted Magazine Holders for Binders,13.71,7.129200000000001,3
+2018-09-10,Missouri,Xerox 1970,24.9,13.197,5
+2018-09-10,Missouri,Fellowes Stor/Drawer Steel Plus Storage Drawers,286.29,269.11260000000004,3
+2018-09-10,Missouri,Acco 6 Outlet Guardian Standard Surge Suppressor,24.18,16.926000000000002,2
+2018-09-23,Oklahoma,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,291.96,189.77399999999997,4
+2018-09-25,Minnesota,ACCOHIDE Binder by Acco,8.26,4.3778,2
+2018-09-25,Minnesota,"Global Leather Task Chair, Black",269.97,218.67570000000003,3
+2018-09-12,Maryland,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",39.9,19.95,5
+2018-09-12,Maryland,Fellowes Basic Home/Office Series Surge Protectors,90.86,64.5106,7
+2018-09-12,Maryland,Xerox 1939,94.85,49.321999999999996,5
+2018-09-07,Oregon,Hanging Personal Folder File,37.68,35.325,3
+2018-09-07,Oregon,Logitech Wireless Marathon Mouse M705,279.944,199.4601,7
+2018-09-22,Michigan,O'Sullivan 4-Shelf Bookcase in Odessa Pine,241.96,200.8268,2
+2018-09-22,Michigan,Avery 511,27.72,14.414399999999999,9
+2018-09-17,Washington,Xerox 1984,12.96,6.609600000000001,2
+2018-09-17,Georgia,Global Ergonomic Managers Chair,723.92,535.7008,4
+2018-09-17,Georgia,Easy-staple paper,106.32,56.349599999999995,3
+2018-09-23,Colorado,Wausau Papers Astrobrights Colored Envelopes,14.352,9.1494,3
+2018-09-09,South Carolina,Fellowes Officeware Wire Shelving,628.81,616.2338,7
+2018-09-09,South Carolina,X-Rack File for Hanging Folders,56.45,41.773,5
+2018-09-04,California,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,1322.352,1421.5284000000001,3
+2018-09-07,New York,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",478.08,344.21759999999995,8
+2018-09-17,Utah,Avery Non-Stick Binders,10.776,7.2738,3
+2018-09-17,Utah,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",11.784,7.512300000000001,3
+2018-09-17,Utah,Green Bar Computer Printout Paper,164.88,84.08879999999999,3
+2018-09-17,Utah,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",1292.94,1215.3636000000001,3
+2018-09-17,Utah,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",25.584,16.6296,2
+2018-09-17,Utah,"Mini 13-1/2 Capacity Data Binder Rack, Pearl",261.74,196.305,2
+2018-09-17,Utah,Avery 514,14.4,7.344,5
+2018-09-18,Texas,Newell 314,8.928,8.370000000000001,2
+2018-09-18,Texas,Acco Perma 2700 Stacking Storage Drawers,47.584,50.55800000000001,2
+2018-09-10,Illinois,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,762.594,1906.4850000000001,3
+2018-09-11,Georgia,Xerox 1935,184.66,99.7164,7
+2018-09-16,Pennsylvania,Xerox 231,20.736,13.4784,4
+2018-09-11,California,Xerox 1996,12.96,6.739200000000001,2
+2018-09-11,California,#10 Self-Seal White Envelopes,22.18,11.3118,2
+2018-09-11,California,Hon Pagoda Stacking Chairs,2054.272,1797.4879999999998,8
+2018-09-04,California,Xerox 220,12.96,6.739200000000001,2
+2018-09-04,California,invisibleSHIELD by ZAGG Smudge-Free Screen Protector,43.176,28.064400000000003,3
+2018-09-08,Pennsylvania,Aastra 6757i CT Wireless VoIP phone,258.528,305.9248,2
+2018-09-25,Ohio,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,119.96,83.972,5
+2018-09-25,Ohio,Newell 311,10.608,9.6798,6
+2018-09-23,Colorado,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",180.588,421.37199999999996,2
+2018-09-23,Colorado,Belkin F8E887 USB Wired Ergonomic Keyboard,47.984,47.3842,2
+2018-09-10,New York,"Rediform S.O.S. 1-Up Phone Message Bk, 4-1/4x3-1/16 Bk, 1 Form/Pg, 40 Messages/Bk, 3/Pk",18.76,9.755200000000002,2
+2018-09-22,Texas,Staple envelope,13.392,8.37,3
+2018-09-22,Texas,Insertable Tab Post Binder Dividers,11.228,29.754199999999997,7
+2018-09-01,New York,"Seth Thomas 12"" Clock w/ Goldtone Case",114.9,75.834,5
+2018-09-07,Illinois,Easy-staple paper,73.008,46.54259999999999,9
+2018-09-23,California,"Acco PRESSTEX Data Binder with Storage Hooks, Light Blue, 9 1/2"" X 11""",25.824,16.785600000000002,6
+2018-09-23,California,APC 7 Outlet Network SurgeArrest Surge Protector,160.96,112.67200000000001,2
+2018-09-16,Pennsylvania,Logitech Trackman Marble Mouse,71.976,52.1826,3
+2018-09-16,Pennsylvania,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",22.512,20.2608,3
+2018-09-16,Pennsylvania,Binder Posts,3.444,6.199199999999999,2
+2018-09-16,Pennsylvania,GBC DocuBind TL300 Electric Binding System,538.194,950.8094,2
+2018-09-16,Pennsylvania,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,47.984,33.5888,2
+2018-09-05,Florida,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",147.184,176.6208,2
+2018-09-24,Minnesota,KeyTronic E03601U1 - Keyboard - Beige,72.0,59.04,4
+2018-09-24,Minnesota,Imation Bio 2GB USB Flash Drive Imation Corp,655.9,380.42199999999997,5
+2018-09-24,Minnesota,"Global Airflow Leather Mesh Back Chair, Black",603.92,422.74399999999997,4
+2018-09-04,Illinois,"Bush Birmingham Collection Bookcase, Dark Cherry",825.174,943.056,9
+2018-09-04,Illinois,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",17.76,12.21,3
+2018-09-04,Illinois,"Sanford Colorific Colored Pencils, 12/Box",6.912,6.048,3
+2018-09-04,Ohio,DIXON Oriole Pencils,8.256,7.6368,4
+2018-09-04,Ohio,GBC Recycled VeloBinder Covers,25.56,46.007999999999996,5
+2018-09-04,Ohio,Wilson Jones Active Use Binders,4.368,7.4256,2
+2018-09-04,Ohio,"Telephone Message Books with Fax/Mobile Section, 4 1/4"" x 6""",11.52,7.776,4
+2018-09-07,Missouri,GBC DocuBind 300 Electric Binding Machine,1577.94,820.5288,3
+2018-09-03,California,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",5.96,4.2912,2
+2018-09-24,Ohio,Apple iPhone 5,1169.694,1423.1277,3
+2018-09-04,California,Ibico Hi-Tech Manual Binding System,487.984,335.489,2
+2018-09-04,California,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,5.56,3.8225,1
+2018-09-04,California,"Trav-L-File Heavy-Duty Shuttle II, Black",217.85,152.495,5
+2018-09-08,Ohio,Imation Swivel Flash Drive USB flash drive - 8 GB,9.096,7.3905,1
+2018-09-23,Florida,Xerox 1941,251.64,163.56599999999997,3
+2018-09-22,Arkansas,Ibico EB-19 Dual Function Manual Binding System,691.96,373.65840000000003,4
+2018-09-22,Arkansas,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",34.95,19.572000000000003,5
+2018-09-18,New York,Xerox 203,19.44,10.1088,3
+2018-09-18,New York,Ultra Door Push Plate,9.82,6.5794,2
+2018-09-02,California,"OIC #2 Pencils, Medium Soft",9.4,6.674,5
+2018-09-02,California,Avery 505,74.0,37.0,5
+2018-09-02,California,Ooma Telo VoIP Home Phone System,201.584,188.985,2
+2018-09-07,Arizona,Wilson Jones Leather-Like Binders with DublLock Round Rings,7.857,13.880700000000001,3
+2018-09-04,Pennsylvania,Kingston Digital DataTraveler 8GB USB 2.0,19.04,20.468,4
+2018-09-07,Pennsylvania,Avery 519,29.24,19.371499999999997,5
+2018-09-07,Pennsylvania,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",15.552,10.108799999999999,3
+2018-09-07,Pennsylvania,Poly String Tie Envelopes,4.896,3.2436,3
+2018-09-21,Georgia,APC 7 Outlet Network SurgeArrest Surge Protector,80.48,56.336000000000006,1
+2018-09-04,California,"Rogers Jumbo File, Granite",54.32,53.7768,4
+2018-09-01,Washington,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,19.99,13.193399999999999,1
+2018-09-01,Washington,Avery Metallic Poly Binders,22.92,14.898000000000001,5
+2018-09-11,Illinois,Acco Hot Clips Clips to Go,10.528,7.238,4
+2018-09-11,Illinois,Xerox 1927,20.544,14.124,6
+2018-09-22,New Mexico,Southworth 25% Cotton Linen-Finish Paper & Envelopes,27.18,14.949,3
+2018-09-14,New Jersey,Boston Home & Office Model 2000 Electric Pencil Sharpeners,70.95,52.503,3
+2018-09-28,Colorado,Dana Halogen Swing-Arm Architect Lamp,32.776,29.498400000000004,1
+2018-09-28,Colorado,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",147.184,176.6208,2
+2018-09-28,Colorado,Lenovo 17-Key USB Numeric Keypad,54.384,53.0244,2
+2018-09-28,Colorado,GBC DocuBind P50 Personal Binding Machine,76.776,135.6376,4
+2018-09-28,Colorado,Xerox 1992,14.352,9.1494,3
+2018-09-28,Colorado,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,209.792,183.568,2
+2018-09-29,Ohio,"Global Wood Trimmed Manager's Task Chair, Khaki",63.686,79.1526,1
+2018-09-29,Ohio,Logitech G700s Rechargeable Gaming Mouse,239.976,173.9826,3
+2018-09-29,Ohio,Riverside Furniture Stanwyck Manor Table Series,344.22,533.541,2
+2018-09-29,Ohio,Xerox 227,15.552,10.108799999999999,3
+2018-09-29,Ohio,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,21.248,13.811200000000001,4
+2018-09-29,Ohio,Xerox 1928,8.448,5.808,2
+2018-09-08,Ohio,Memorex Micro Travel Drive 32 GB,116.832,83.24279999999999,4
+2018-09-26,Florida,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",419.136,476.7672,4
+2018-09-09,Tennessee,Staple remover,8.832,10.8192,3
+2018-09-09,Tennessee,Xerox 1888,177.536,115.39840000000001,4
+2018-09-09,Tennessee,Fellowes Super Stor/Drawer Files,258.48,261.711,2
+2018-09-09,Tennessee,Eldon Wave Desk Accessories,14.136,9.895199999999999,3
+2018-09-01,Washington,Staples in misc. colors,7.58,4.6238,1
+2018-09-21,Pennsylvania,Insertable Tab Indexes For Data Binders,1.908,3.4344,2
+2018-09-29,Tennessee,Carina Media Storage Towers in Natural & Black,243.92,298.80199999999996,5
+2018-09-10,Massachusetts,"Eberhard Faber 3 1/2"" Golf Pencils",14.88,11.16,2
+2018-09-22,Delaware,GE 30524EE4,391.98,278.30580000000003,2
+2018-09-29,New York,Staple envelope,23.34,12.3702,3
+2018-09-29,New York,"Speediset Carbonless Redi-Letter 7"" x 8 1/2""",51.55,27.321499999999997,5
+2018-09-25,Montana,Iris Project Case,39.9,29.525999999999996,5
+2018-09-12,Rhode Island,Xerox 209,45.36,23.5872,7
+2018-09-12,Rhode Island,Aluminum Screw Posts,45.78,22.89,3
+2018-09-24,Georgia,Fellowes Desktop Hanging File Manager,40.29,30.2175,3
+2018-09-24,Georgia,Avery Durable Poly Binders,38.71,20.9034,7
+2018-09-09,Michigan,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",17.48,9.2644,2
+2018-09-01,Michigan,Harbour Creations 67200 Series Stacking Chairs,498.26,363.72979999999995,7
+2018-09-12,California,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",166.44,86.5488,3
+2018-09-30,Washington,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",11.76,5.997599999999999,2
+2018-09-30,Washington,Xerox 1882,167.94,85.6494,3
+2018-09-30,Washington,"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",3.89,2.8786,1
+2018-09-11,California,"6"" Cubicle Wall Clock, Black",32.36,20.7104,4
+2018-09-11,California,Kensington 4 Outlet MasterPiece Compact Power Control Center,406.6,292.752,5
+2018-09-07,Wisconsin,Rosewill 107 Normal Keys USB Wired Standard Keyboard,13.48,11.5928,1
+2018-09-18,Nebraska,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",15.96,7.98,2
+2018-09-10,Ohio,Xerox 1906,85.056,56.349599999999995,3
+2018-09-21,Washington,Sony 64GB Class 10 Micro SDHC R40 Memory Card,71.98,56.864200000000004,2
+2018-09-21,Washington,Logitech M510 Wireless Mouse,79.98,53.586600000000004,2
+2018-09-18,New Mexico,Wilson Jones Easy Flow II Sheet Lifters,10.08,6.552,7
+2018-09-18,New Mexico,Kingston Digital DataTraveler 64GB USB 2.0,101.34,93.2328,3
+2018-09-23,Illinois,Euro Pro Shark Stick Mini Vacuum,73.176,270.7512,6
+2018-09-23,Illinois,Xerox 217,20.736,13.4784,4
+2018-09-23,Illinois,OtterBox Commuter Series Case - Samsung Galaxy S4,39.984,48.9804,2
+2018-09-09,Arizona,Unpadded Memo Slips,6.368,3.9800000000000004,2
+2018-09-04,California,Acco Suede Grain Vinyl Round Ring Binder,13.344,9.0072,6
+2018-09-04,California,"Bush Cubix Conference Tables, Fully Assembled",1478.272,1385.8799999999999,8
+2018-09-28,California,Longer-Life Soft White Bulbs,9.24,4.8048,3
+2018-09-22,New Hampshire,"Tenex Personal Project File with Scoop Front Design, Black",67.4,49.876000000000005,5
+2018-09-07,Utah,"DAX Copper Panel Document Frame, 5 x 7 Size",25.16,14.5928,2
+2018-09-07,Utah,Motorla HX550 Universal Bluetooth Headset,126.56,79.1,4
+2018-09-09,California,Newell 35,6.56,4.6575999999999995,2
+2018-09-09,California,Novimex Fabric Task Chair,243.92,259.16499999999996,5
+2018-09-09,California,Astroparche Fine Business Paper,47.52,24.710400000000003,9
+2018-09-24,Massachusetts,Panasonic KX-TG9471B,391.98,282.2256,2
+2018-09-24,Massachusetts,Wi-Ex zBoost YX540 Cellular Phone Signal Booster,437.85,306.495,3
+2018-09-03,California,"Square Ring Data Binders, Rigid 75 Pt. Covers, 11"" x 14-7/8""",82.56,53.664,5
+2018-09-03,California,Kensington Expert Mouse Optical USB Trackball for PC or Mac,284.97,199.47900000000004,3
+2018-09-22,New York,GBC Poly Designer Binding Covers,40.176,25.6122,3
+2018-09-25,Virginia,Steel Personal Filing/Posting Tote,177.55,129.6115,5
+2018-09-08,Texas,Memorex Froggy Flash Drive 8 GB,85.2,64.965,6
+2018-09-29,California,Advantus Plastic Paper Clips,35.0,18.2,7
+2018-09-29,California,"Leather Task Chair, Black",72.784,72.784,1
+2018-09-29,California,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",97.84,72.4016,2
+2018-09-29,California,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",51.75,36.225,1
+2018-09-29,California,Binding Machine Supplies,46.672,30.336799999999997,2
+2018-09-03,New York,Xerox 189,419.4,218.08799999999997,4
+2018-09-03,New York,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,90.801,76.6764,1
+2018-09-03,New York,Global Low Back Tilter Chair,181.764,189.8424,2
+2018-09-03,New York,Prang Drawing Pencil Set,5.56,3.3359999999999994,2
+2018-09-03,California,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",239.666,225.56799999999998,2
+2018-09-10,Georgia,Wilson Jones Suede Grain Vinyl Binders,2.78,1.4177999999999997,1
+2018-09-09,California,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,99.87,75.9012,3
+2018-09-16,Pennsylvania,Xerox 1927,20.544,14.124,6
+2018-09-15,California,GBC DocuBind 200 Manual Binding Machine,2357.488,1473.4299999999998,7
+2018-09-15,California,Panasonic KX-TG6844B Expandable Digital Cordless Telephone,369.544,337.20889999999997,7
+2018-09-15,California,Global Deluxe Steno Chair,184.752,205.53660000000002,3
+2018-09-21,Florida,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",12.294,20.8998,1
+2018-09-07,California,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",19.76,11.4608,4
+2018-09-24,California,Wilson Electronics DB Pro Signal Booster,859.2,784.02,3
+2018-09-24,California,Socket Bluetooth Cordless Hand Scanner (CHS),506.28,329.082,3
+2018-09-20,New York,Hon Valutask Swivel Chairs,272.646,254.4696,3
+2018-09-20,New York,"Logitech Wireless Boombox Speaker - portable - wireless, wired",212.8,117.04,2
+2018-09-20,New York,"TOPS ""Important Message"" Pads, Canary, 4-1/4 x 5-1/2, 50 Sheets per Pad",38.52,20.415600000000005,9
+2018-09-20,New York,SanDisk Cruzer 64 GB USB Flash Drive,72.64,50.848,2
+2018-09-20,New York,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",45.4,32.688,4
+2018-09-20,New York,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",13.76,7.4304,2
+2018-09-20,New York,"Global Leather Task Chair, Black",80.991,72.89189999999999,1
+2018-09-20,New York,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",11.784,7.806900000000001,3
+2018-09-20,New York,Advantus Push Pins,4.36,2.5724,2
+2018-09-20,New York,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,2888.127,2278.4112999999998,11
+2018-09-20,New York,Apple iPhone 5,1299.66,948.7518,2
+2018-09-20,New York,Global Troy Executive Leather Low-Back Tilter,2254.41,1878.6749999999997,5
+2018-09-20,New York,Plantronics Cordless Phone Headset with In-line Volume - M214C,104.85,76.5405,3
+2018-09-20,New York,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,59.97,39.5802,3
+2018-09-19,Oregon,Mophie Juice Pack Helium for iPhone,191.976,172.7784,3
+2018-09-19,Oregon,Peel-Off China Markers,23.832,17.278200000000002,3
+2018-09-19,Oregon,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",409.216,347.8336,8
+2018-09-19,Oregon,O'Sullivan 4-Shelf Bookcase in Odessa Pine,72.588,200.8268,2
+2018-09-15,Tennessee,Xerox 1893,163.96,104.52450000000002,5
+2018-09-29,Ohio,Fellowes Bankers Box Stor/Drawer Steel Plus,51.168,57.564,2
+2018-09-14,California,Avery 48,56.7,30.618000000000002,9
+2018-09-11,Washington,Office Star - Contemporary Task Swivel Chair,177.568,168.6896,2
+2018-09-11,Washington,Xerox 225,19.44,10.1088,3
+2018-09-11,Washington,Xerox 1894,71.28,37.0656,11
+2018-09-11,Washington,Ibico Ibimaster 300 Manual Binding System,1471.96,1011.9725000000001,5
+2018-09-11,Washington,iOttie XL Car Mount,79.96,97.951,5
+2018-09-09,Texas,Avery 511,9.856,6.4064,4
+2018-09-28,Florida,Xerox 220,10.368,6.7392,2
+2018-09-03,Texas,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,108.4,214.09,5
+2018-09-19,New York,Xerox 228,32.4,16.848,5
+2018-09-15,California,"Leather Task Chair, Black",218.352,218.352,3
+2018-09-15,California,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",529.9,423.91999999999996,5
+2018-09-15,California,Peel-Off China Markers,99.3,57.593999999999994,10
+2018-09-15,California,Belkin 5 Outlet SurgeMaster Power Centers,108.96,78.4512,2
+2018-09-15,California,Cardinal Poly Pocket Divider Pockets for Ring Binders,2.688,1.8480000000000003,1
+2018-09-08,Texas,"Premier Elliptical Ring Binder, Black",42.616,110.8016,7
+2018-09-08,Texas,Canon PC-428 Personal Copier,319.984,211.9894,2
+2018-09-08,Texas,"Vinyl Coated Wire Paper Clips in Organizer Box, 800/Box",45.92,30.422000000000004,5
+2018-09-08,Texas,DAX Black Cherry Wood-Tone Poster Frame,21.184,32.8352,2
+2018-09-08,Texas,Xerox 205,20.736,13.4784,4
+2018-09-08,Texas,"Global Armless Task Chair, Royal Blue",213.43,253.067,5
+2018-09-02,Connecticut,Crate-A-Files,10.9,8.066,1
+2018-09-02,Connecticut,Xerox 191,79.92,42.357600000000005,4
+2018-09-02,Connecticut,Xerox 1890,146.82,73.41,3
+2018-09-30,Maryland,Green Bar Computer Printout Paper,164.88,84.08879999999999,3
+2018-09-19,California,Microsoft Natural Ergonomic Keyboard 4000,149.95,118.4605,5
+2018-09-19,California,Boston 16765 Mini Stand Up Battery Pencil Sharpener,23.32,17.2568,2
+2018-09-19,California,Newell 33,16.74,11.885399999999999,3
+2018-09-04,New Hampshire,Staples,14.82,7.8546000000000005,6
+2018-09-15,New Jersey,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",47.4,28.439999999999998,5
+2018-09-15,New Jersey,SAFCO Folding Chair Trolley,512.96,369.3312,4
+2018-09-15,New Jersey,Plantronics 81402,395.94,292.99559999999997,6
+2018-09-15,New Jersey,"Contico 72""H Heavy-Duty Storage System",81.96,81.96,2
+2018-09-19,Georgia,SANFORD Major Accent Highlighters,35.4,21.948,5
+2018-09-14,Pennsylvania,GBC Instant Report Kit,3.882,6.470000000000001,2
+2018-09-14,Pennsylvania,Ricoh - Ink Collector Unit for GX3000 Series Printers,12.585,30.6235,1
+2018-09-14,Pennsylvania,Office Star - Ergonomically Designed Knee Chair,113.372,142.5248,2
+2018-09-14,Pennsylvania,Aluminum Screw Posts,18.312,30.520000000000003,4
+2018-09-14,Pennsylvania,Tensor Track Tree Floor Lamp,127.936,123.1384,8
+2018-09-14,Pennsylvania,Lexmark MarkNet N8150 Wireless Print Server,241.17,409.989,2
+2018-09-10,Ohio,Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive,37.056,28.255199999999995,4
+2018-09-10,Ohio,Cisco IP Phone 7961G-GE VoIP phone,259.896,316.20680000000004,2
+2018-09-18,Georgia,I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,95.68,68.8896,8
+2018-09-18,Georgia,"Post-it “Important Message” Note Pad, Neon Colors, 50 Sheets/Pad",50.96,26.499200000000002,7
+2018-09-18,Georgia,"Hunt PowerHouse Electric Pencil Sharpener, Blue",113.94,79.758,3
+2018-09-18,Georgia,Xerox 1997,25.92,13.478400000000002,4
+2018-09-18,Georgia,"Master Caster Door Stop, Gray",20.32,13.411200000000001,4
+2018-09-18,Georgia,AT&T CL83451 4-Handset Telephone,411.98,292.5058,2
+2018-09-18,Georgia,"Fiskars 8"" Scissors, 2/Pack",34.48,24.480799999999995,2
+2018-09-18,Georgia,Xerox 1917,244.55,129.6115,5
+2018-09-02,Illinois,Advantus Plastic Paper Clips,16.0,10.4,4
+2018-09-02,Illinois,Belkin 7-Outlet SurgeMaster Home Series,5.588,20.6756,2
+2018-09-02,Illinois,"Belkin 19"" Center-Weighted Shelf, Gray",235.92,280.155,5
+2018-09-19,Arizona,Akro Stacking Bins,12.624,15.148800000000001,2
+2018-09-19,Arizona,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,89.584,85.1048,2
+2018-09-19,Arizona,Polycom VoiceStation 500 Conference phone,471.92,442.425,2
+2018-09-19,Arizona,Plastic Binding Combs,18.18,32.118,4
+2018-09-15,Texas,Prismacolor Color Pencil Set,31.744,23.4112,2
+2018-09-22,Georgia,Xerox 219,12.96,6.739200000000001,2
+2018-09-22,Georgia,"Stride Job 150 Highlighters, Chisel Tip, Assorted Colors",17.94,11.4816,3
+2018-09-25,Pennsylvania,Avery Metallic Poly Binders,8.595,14.898,5
+2018-09-25,Pennsylvania,Compact Automatic Electric Letter Opener,190.896,233.8476,2
+2018-09-04,California,"24 Capacity Maxi Data Binder Racks, Pearl",421.1,315.82500000000005,2
+2018-09-07,Missouri,Maxell 4.7GB DVD-R,113.52,66.9768,4
+2018-09-07,Missouri,"DataProducts Ampli Magnifier Task Lamp, Black,",135.3,97.41600000000001,5
+2018-09-02,Illinois,Kingston Digital DataTraveler 32GB USB 2.0,40.68,47.799,3
+2018-09-09,Ohio,"BIC Brite Liner Highlighters, Chisel Tip",25.92,22.032000000000004,5
+2018-09-09,Ohio,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",66.112,75.2024,2
+2018-09-04,Florida,"Global Value Steno Chair, Gray",97.184,91.11,2
+2018-09-04,Florida,Xerox 213,10.368,6.7392,2
+2018-09-03,Illinois,"""While you Were Out"" Message Book, One Form per Page",8.904,5.5649999999999995,3
+2018-09-03,Illinois,Hypercom P1300 Pinpad,100.8,79.38,2
+2018-09-21,California,"Tenex Personal Filing Tote With Secure Closure Lid, Black/Frost",15.51,11.6325,1
+2018-09-02,California,Acco Translucent Poly Ring Binders,18.72,12.168,5
+2018-09-02,California,Hon 2111 Invitation Series Straight Table,236.528,239.4846,2
+2018-09-17,Texas,Newell Chalk Holder,9.912,6.690600000000001,3
+2018-09-17,Texas,"Global Wood Trimmed Manager's Task Chair, Khaki",318.43,395.76300000000003,5
+2018-09-17,Texas,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,5.8,15.95,5
+2018-09-17,Texas,Polycom VoiceStation 500 Conference phone,1415.76,1327.275,6
+2018-09-11,Texas,Xerox 1953,10.272,7.062,3
+2018-09-11,Texas,Bevis Round Conference Table Top & Single Column Base,512.19,578.043,5
+2018-09-11,Texas,"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",1.556,5.7572,2
+2018-09-26,California,Staple envelope,71.88,38.8152,6
+2018-09-26,California,Stackable Trays,9.24,6.283200000000001,3
+2018-09-26,California,Xerox 1895,35.88,19.734,6
+2018-09-26,California,"Wilson Jones Hanging View Binder, White, 1""",17.04,11.501999999999999,3
+2018-09-26,California,Fellowes PB300 Plastic Comb Binding Machine,931.176,616.9041,3
+2018-09-29,California,Newell 334,99.2,73.408,5
+2018-09-13,North Carolina,Fluorescent Highlighters by Dixon,15.92,13.134,5
+2018-09-09,California,Microsoft Wireless Mobile Mouse 4000,159.96,108.77280000000002,4
+2018-09-18,Texas,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,114.848,78.958,4
+2018-09-15,Washington,BIC Brite Liner Highlighters,12.42,7.2036,3
+2018-09-26,Oregon,Prang Drawing Pencil Set,2.224,1.6680000000000001,1
+2018-09-19,Pennsylvania,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",4.842,8.2314,3
+2018-09-25,Ohio,Security-Tint Envelopes,24.448,15.585600000000001,4
+2018-09-09,Oregon,Xerox 1930,31.104,19.8288,6
+2018-09-09,Oregon,Belkin 7-Outlet SurgeMaster Home Series,11.176,10.3378,1
+2018-09-04,Texas,"Hunt PowerHouse Electric Pencil Sharpener, Blue",30.384,26.586,1
+2018-09-15,Connecticut,Eldon ProFile File 'N Store Portable File Tub Letter/Legal Size Black,38.62,27.806399999999996,2
+2018-09-15,Connecticut,Micro Innovations Wireless Classic Keyboard with Mouse,59.98,49.1836,2
+2018-09-24,Florida,Vtech CS6719,383.96,345.56399999999996,5
+2018-09-24,Florida,Wilson Jones International Size A4 Ring Binders,15.57,26.988,3
+2018-09-15,Utah,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",295.056,188.09819999999996,9
+2018-09-28,Pennsylvania,GBC Standard Plastic Binding Systems Combs,2.655,4.5135,1
+2018-09-07,California,Global Low Back Tilter Chair,161.568,189.8424,2
+2018-09-05,Tennessee,Maxell LTO Ultrium - 800 GB,89.568,90.6876,4
+2018-09-05,Tennessee,Model L Table or Wall-Mount Pencil Sharpener,71.96,64.764,5
+2018-09-05,Tennessee,Xerox 220,15.552,10.108799999999999,3
+2018-09-07,Tennessee,Eureka The Boss Cordless Rechargeable Stick Vac,81.568,74.4308,2
+2018-09-08,Florida,"Decoflex Hanging Personal Folder File, Blue",61.68,56.283,5
+2018-09-08,Florida,Samsung Rugby III,158.376,144.5181,3
+2018-09-04,California,Pressboard Hanging Data Binders for Unburst Sheets,11.808,7.6752,3
+2018-09-24,Washington,12-1/2 Diameter Round Wall Clock,199.8,127.87200000000001,10
+2018-09-21,California,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",55.86,27.93,7
+2018-09-29,New York,Letter or Legal Size Expandable Poly String Tie Envelopes,7.98,4.069800000000001,3
+2018-09-08,New York,Adjustable Personal File Tote,65.12,48.1888,4
+2018-09-15,California,Bretford Rectangular Conference Table Tops,300.904,289.6201,1
+2018-09-09,Ohio,Avery 501,17.712,11.7342,6
+2018-09-09,Ohio,3M Organizer Strips,4.86,8.424,3
+2018-09-09,Ohio,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",6.258,11.472999999999999,2
+2018-09-14,North Carolina,3.6 Cubic Foot Counter Height Office Refrigerator,942.784,848.5056,4
+2018-09-14,North Carolina,Xerox 1988,74.352,51.117000000000004,3
+2018-09-24,Georgia,"Tenex Personal Filing Tote With Secure Closure Lid, Black/Frost",15.51,11.6325,1
+2018-09-24,Georgia,Plantronics Encore H101 Dual Earpieces Headset,89.9,64.72800000000001,2
+2018-09-24,Georgia,Barrel Sharpener,14.28,10.5672,4
+2018-09-24,Georgia,"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",12.72,7.759200000000001,3
+2018-09-24,Georgia,Self-Adhesive Removable Labels,15.75,8.190000000000001,5
+2018-09-17,New Jersey,Lexmark 20R1285 X6650 Wireless All-in-One Printer,480.0,254.4,4
+2018-09-17,New Jersey,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",34.05,24.516,3
+2018-09-01,Washington,Honeywell Quietcare HEPA Air Cleaner,314.6,210.78200000000004,4
+2018-09-01,Washington,KI Conference Tables,283.56,238.1904,4
+2018-09-22,California,Fiskars Softgrip Scissors,21.96,15.811200000000001,2
+2018-09-11,California,OtterBox Defender Series Case - Samsung Galaxy S4,143.952,125.958,6
+2018-09-11,California,Xerox 192,19.44,10.1088,3
+2018-09-04,Oregon,"Avery Trapezoid Extra Heavy Duty 4"" Binders",88.074,146.79,7
+2018-09-30,California,Razer Kraken PRO Over Ear PC and Music Headset,159.98,111.98599999999999,2
+2018-09-30,Pennsylvania,Self-Adhesive Address Labels for Typewriters with Dispenser Box,20.664,13.689900000000002,7
+2018-09-23,Arkansas,Microsoft Wireless Mobile Mouse 4000,199.95,135.96599999999998,5
+2018-09-23,Arkansas,Xerox 225,12.96,6.739200000000001,2
+2018-09-02,Washington,"Global Leather Task Chair, Black",215.976,218.6757,3
+2018-09-02,Kentucky,GBC DocuBind 300 Electric Binding Machine,1577.94,820.5288,3
+2018-09-11,Virginia,Hoover Commercial SteamVac,67.9,47.53,5
+2018-09-02,Colorado,Avery 519,11.696,7.7486,2
+2018-09-23,California,Xerox 1909,211.04,113.96159999999999,8
+2018-09-23,California,GuestStacker Chair with Chrome Finish Legs,594.816,535.3344000000001,2
+2018-09-23,California,Ibico Plastic Spiral Binding Combs,72.96,49.24799999999999,3
+2018-09-07,Washington,DAX Two-Tone Silver Metal Document Frame,80.96,46.14719999999999,4
+2018-09-07,Washington,Konftel 250 Conference phone - Charcoal black,455.712,421.5336,2
+2018-09-07,Washington,Boston 1799 Powerhouse Electric Pencil Sharpener,25.98,18.7056,1
+2018-09-11,Kentucky,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",195.68,144.8032,4
+2018-09-11,Kentucky,"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",14.2,7.525999999999999,4
+2018-09-16,California,"OIC Colored Binder Clips, Assorted Sizes",17.9,9.128999999999998,5
+2018-09-24,Illinois,GuestStacker Chair with Chrome Finish Legs,520.464,535.3344000000001,2
+2018-09-24,Illinois,Wirebound Voice Message Log Book,11.424,7.7112,3
+2018-09-22,New York,WD My Passport Ultra 2TB Portable External Hard Drive,1071.0,899.64,9
+2018-09-22,New York,Eldon 500 Class Desk Accessories,12.07,8.0869,1
+2018-09-07,Rhode Island,Avoid Verbal Orders Carbonless Minifold Book,16.9,9.125999999999998,5
+2018-09-07,Rhode Island,Xerox 191,39.96,21.178800000000003,2
+2018-09-14,New York,Wilson SignalBoost 841262 DB PRO Amplifier Kit,1079.85,755.895,3
+2018-09-14,New York,Sensible Storage WireTech Storage Systems,70.98,67.431,1
+2018-09-14,New York,Bulldog Table or Wall-Mount Pencil Sharpener,29.95,21.264499999999998,5
+2018-09-14,New York,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",589.41,595.959,5
+2018-09-14,New York,Xerox 1980,8.56,4.708,2
+2018-09-14,New York,Xerox 1987,11.56,5.895600000000001,2
+2018-09-23,Texas,Xerox 1899,9.248,5.8956,2
+2018-09-30,Texas,GBC Instant Report Kit,11.646,29.115000000000002,9
+2018-09-24,California,Array Memo Cubes,31.08,15.850799999999998,6
+2018-09-24,California,Acme Value Line Scissors,7.3,5.109999999999999,2
+2018-09-17,Idaho,Logitech Trackman Marble Mouse,89.97,52.1826,3
+2018-09-29,California,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",97.3,69.083,7
+2018-09-14,Ohio,Logitech Wireless Gaming Headset G930,895.944,705.5559,7
+2018-09-02,California,"Acco Six-Outlet Power Strip, 4' Cord Length",43.1,31.894000000000002,5
+2018-09-02,California,Luxo Professional Combination Clamp-On Lamps,511.5,378.51,5
+2018-09-02,California,"GBC Velobind Prepunched Cover Sets, Regency Series",147.92,101.695,5
+2018-09-16,Kentucky,KeyTronic E03601U1 - Keyboard - Beige,18.0,14.76,1

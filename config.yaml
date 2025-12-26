@@ -1,0 +1,44 @@
+# Where to read/write
+input_dir: data/in
+out_dir: out
+
+# Reporting options (run everything by default)
+make_pdf: true
+write_excel_pack: true
+write_charts: true
+write_cleaned_csv: true
+write_quality_report: true
+write_run_log: true
+
+currency_code: AUD
+
+report_title: Analyst Reporting Pack
+report_subtitle: Superstore Monthly Performance
+
+notes:
+  - "This report is generated from monthly CSV/XLSX dumps using a reproducible Python pipeline."
+  - "Revenue = Sales; Gross Profit = Revenue - COGS; Margin = Gross Profit / Revenue."
+  - "Variance is month-over-month change based on the Trends table."
+
+# IMPORTANT: alias keys must be snake_case (because we standardise headers first)
+aliases:
+  transaction_date: date
+  order_date: date
+  month: date
+  period: date
+
+  sales: revenue
+  total_sales: revenue
+  amount: revenue
+  net_sales: revenue
+  sales_: revenue   # sometimes "Sales($)" becomes "sales_" after cleaning
+
+  cogs: cost
+  total_cost: cost
+
+  qty: units
+  quantity: units
+
+  state: region
+  sku: product
+  product_name: product
