@@ -5,6 +5,8 @@ from pathlib import Path
 import sys
 import random
 import pandas as pd
+import json
+from datetime import datetime
 
 from src.ingest import read_all
 from src.clean import clean
@@ -49,15 +51,12 @@ def make_demo_inputs(input_dir: Path) -> None:
 def parse_args(argv: list[str]) -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Analyst Reporting Automation Suite")
 
-    # Default config.yaml so `python main.py` just works
     p.add_argument("--config", type=str, default="config.yaml", help="Path to config.yaml (default: config.yaml)")
     p.add_argument("--input", type=str, default=None, help="Override input_dir from config")
     p.add_argument("--out", type=str, default=None, help="Override out_dir from config")
     p.add_argument("--currency", type=str, default=None, help="Override currency_code from config (e.g. AUD/USD)")
-
     p.add_argument("--demo", action="store_true", help="Generate demo inputs into input folder then run")
 
-    # Optional override for PDF only (config controls defaults)
     g = p.add_mutually_exclusive_group()
     g.add_argument("--pdf", action="store_true", help="Force PDF on (override config)")
     g.add_argument("--no-pdf", action="store_true", help="Force PDF off (override config)")
@@ -79,7 +78,6 @@ def main(argv: list[str]) -> int:
         print(f"ERROR loading config: {e}", file=sys.stderr)
         return 2
 
-    # CLI override for PDF
     make_pdf = cfg.make_pdf
     if args.pdf:
         make_pdf = True
@@ -87,7 +85,11 @@ def main(argv: list[str]) -> int:
         make_pdf = False
 
     input_dir = cfg.input_dir
-    out_dir = cfg.out_dir
+
+    # === TIMESTAMPED OUTPUT FOLDER ===
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    out_root = cfg.out_dir
+    out_dir = out_root / timestamp
     out_dir.mkdir(parents=True, exist_ok=True)
 
     if args.demo:
@@ -98,13 +100,9 @@ def main(argv: list[str]) -> int:
         print(f"ERROR: No input files found in {input_dir}", file=sys.stderr)
         return 2
 
-    # Clean (apply aliases from config)
     result = clean(df_raw, aliases=cfg.aliases)
-
-    # KPI tables
     tables = build_tables(result.df)
 
-    # Optional artifacts
     if cfg.write_cleaned_csv:
         cleaned_csv = out_dir / "cleaned_data.csv"
         result.df.to_csv(cleaned_csv, index=False)
@@ -120,7 +118,6 @@ def main(argv: list[str]) -> int:
         else:
             print(f"✅ Data quality report created: {dq_path}")
 
-    # Excel pack
     if cfg.write_excel_pack:
         out_path = out_dir / "report_pack.xlsx"
         write_excel_pack(
@@ -137,10 +134,9 @@ def main(argv: list[str]) -> int:
     else:
         out_path = out_dir / "report_pack.xlsx"
 
-    # Charts (generate if either charts are requested OR PDF needs them)
+    charts_dir = out_dir / "charts"
     created: list[Path] = []
     if cfg.write_charts or make_pdf:
-        charts_dir = out_dir / "charts"
         created = generate_charts(
             trends=tables["Trends"],
             drill_region=tables["Drilldown_Region"],
@@ -155,7 +151,6 @@ def main(argv: list[str]) -> int:
         else:
             print("📊 No charts generated (missing/empty trend or drilldown data).")
 
-    # PDF (driven by YAML)
     pdf_created = False
     if make_pdf:
         pdf_path = out_dir / "report.pdf"
@@ -181,7 +176,6 @@ def main(argv: list[str]) -> int:
             pdf_created = True
             print(f"📄 PDF report created: {pdf_path}")
 
-    # Run log (driven by YAML)
     if cfg.write_run_log:
         log_path = out_dir / "run_log.txt"
         write_run_log(
@@ -196,9 +190,24 @@ def main(argv: list[str]) -> int:
         )
         print(f"🧾 Run log written: {log_path}")
 
+    # === WRITE run_metadata.json ===
+    meta = {
+        "timestamp": timestamp,
+        "input_dir": str(input_dir),
+        "output_dir": str(out_dir),
+        "currency": cfg.currency_code,
+        "rows_loaded": len(df_raw),
+        "charts_count": len(created),
+        "pdf_created": pdf_created,
+        "warnings": result.warnings,
+    }
+    meta_path = out_dir / "run_metadata.json"
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2)
+    print(f"🧠 Run metadata saved: {meta_path}")
+
     print(f"✅ Loaded rows: {len(df_raw)} from folder: {input_dir}")
     print(f"💱 Currency code: {cfg.currency_code}")
-
     return 0
 
 
